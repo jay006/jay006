@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cooking, CrossFit
 - 🌱 I’m currently NestJS
 - 💞️ I’m looking to collaborate on Blockchain
-- 📫 How to reach me shriom@rapidinnovation.dev
+- 📫 How to reach me shriomtripathi33@gmail.com
 
 <!---
 shriomri/shriomri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
