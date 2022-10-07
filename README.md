@@ -2,7 +2,10 @@
 - 👀 I’m interested in Cooking, CrossFit
 - 🌱 I’m currently NestJS
 - 💞️ I’m looking to collaborate on Blockchain
-- 📫 How to reach me shriomtripathi33@gmail.com
+
+## Reach Me:
+[![Linkedin Badge](https://img.shields.io/badge/-Shriom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shriomtripathi/)](https://www.linkedin.com/in/shriomtripathi/)
+[![Gmail Badge](https://img.shields.io/badge/-shriomtripathi33@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ranams99911@gmail.com)](mailto:shriomtripathi33@gmail.com)
 
 <!---
 shriomri/shriomri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
