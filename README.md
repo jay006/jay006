@@ -32,4 +32,4 @@ Results-oriented and highly skilled Senior Backend Developer with 3+ years of ex
 - Node.js Certified Developer
 
 ## 📫 Let's Connect!
-Feel free to reach out to me via email at example@example.com or connect with me on LinkedIn. Let's discuss how we can collaborate and create innovative solutions together!
+Feel free to reach out to me via email at shriomtripathi33@gmail.com or connect with me on LinkedIn. Let's discuss how we can collaborate and create innovative solutions together!
